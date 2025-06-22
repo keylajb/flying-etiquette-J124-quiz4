@@ -24,15 +24,15 @@ I think that the amount of missing values there are for this question is interes
 
 I also found it interesting how limited the options were or restricted the question was. I think the survey should have added a basis of flight time. For example, this survey question could have been: 
 
-**"Is it rude to wake a passenger up if you are trying to go to the bathroom on a flight that is less than 2 hours long?"** 
+- **"Is it rude to wake a passenger up if you are trying to go to the bathroom on a flight that is less than 2 hours long?"** 
 
 This could give different and perhaps more accurate results of the public's opinion. The alternative is giving more response options like:
 
-"Yes it is rude depending on _time of flight_"
+- "Yes it is rude depending on _time of flight_"
 
-"Yes it is rude if you _chose_ a window seat" or 
+- "Yes it is rude if you _chose_ a window seat" or 
 
-"No it is not rude if you were _placed_ in a window seat"
+- "No it is not rude if you were _placed_ in a window seat"
 
 ## Chart
 
@@ -40,7 +40,7 @@ This could give different and perhaps more accurate results of the public's opin
 
 ## What my Chart Shows and Reveals
 
-The chart I made shows what about 80% of the total respondents think about waking up a passenger to go use the bathroom. 
+The chart I made shows what about 80% _(850 question respondents)_ of the **survey total respondents** _(1041 people)_ think about waking up a passenger to go use the bathroom. 
 
 535 Respondents think it is **not** rude at all to wake up a passenger to go use the bathroom. 
 
@@ -54,10 +54,10 @@ Overall, about **60%** of these respondents view waking a passenger up to use th
 
 What this data fails to show us is why those 535 people believe it is not rude to wake up a passenger to go use the bathroom. It also fails to show what the demographic of these respondents is. 
 
-Are majority of these 535 respndents younger or older? 
+- Are majority of these 535 respndents younger or older? 
 
-Are they mostly men or women? 
+- Are they mostly men or women? 
 
-Is this only economy class or is it buisness class travelers as well? 
+- Is this only economy class or is it buisness class travelers as well? 
 
 There are many demographics that cannot be answered by this data alone. 
